@@ -1,0 +1,1215 @@
+2016-09-11T12:45:44+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:45:44+0000 [stdout#info] portal retrying connection
+2016-09-11T12:45:44+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:45:44+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:45:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:45:55+0000 [stdout#info] portal retrying connection
+2016-09-11T12:45:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:45:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:06+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:06+0000 [stdout#info] portal retrying connection
+2016-09-11T12:46:06+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:46:06+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:17+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:17+0000 [stdout#info] portal retrying connection
+2016-09-11T12:46:17+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:46:17+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:27+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:27+0000 [stdout#info] portal retrying connection
+2016-09-11T12:46:27+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T12:46:27+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:35+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:35+0000 [stdout#info] portal retrying connection
+2016-09-11T12:46:35+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:46:35+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:46+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:46+0000 [stdout#info] portal retrying connection
+2016-09-11T12:46:46+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T12:46:46+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:53+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:46:53+0000 [stdout#info] portal retrying connection
+2016-09-11T12:46:53+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:46:53+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:04+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:04+0000 [stdout#info] portal retrying connection
+2016-09-11T12:47:04+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:47:04+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:13+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:13+0000 [stdout#info] portal retrying connection
+2016-09-11T12:47:13+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:47:13+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:22+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:22+0000 [stdout#info] portal retrying connection
+2016-09-11T12:47:22+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:47:22+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:30+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:30+0000 [stdout#info] portal retrying connection
+2016-09-11T12:47:30+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:47:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:40+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:40+0000 [stdout#info] portal retrying connection
+2016-09-11T12:47:40+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:47:40+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:48+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:47:48+0000 [stdout#info] portal retrying connection
+2016-09-11T12:47:48+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:47:48+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:00+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:00+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:00+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:48:00+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:10+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:10+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:10+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:48:10+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:21+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:48:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:30+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:30+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:30+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:48:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:40+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:40+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:40+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:48:40+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:50+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:50+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:50+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:48:50+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:59+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:48:59+0000 [stdout#info] portal retrying connection
+2016-09-11T12:48:59+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:48:59+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:09+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:09+0000 [stdout#info] portal retrying connection
+2016-09-11T12:49:09+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:49:09+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:19+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:19+0000 [stdout#info] portal retrying connection
+2016-09-11T12:49:19+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:49:19+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:29+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:29+0000 [stdout#info] portal retrying connection
+2016-09-11T12:49:29+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:49:29+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:38+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:38+0000 [stdout#info] portal retrying connection
+2016-09-11T12:49:38+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:49:38+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:48+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:48+0000 [stdout#info] portal retrying connection
+2016-09-11T12:49:48+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:49:48+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:58+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:49:58+0000 [stdout#info] portal retrying connection
+2016-09-11T12:49:58+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:49:58+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:07+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:07+0000 [stdout#info] portal retrying connection
+2016-09-11T12:50:07+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:50:07+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:15+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:15+0000 [stdout#info] portal retrying connection
+2016-09-11T12:50:15+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:50:15+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:24+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:24+0000 [stdout#info] portal retrying connection
+2016-09-11T12:50:24+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:50:24+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:36+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:36+0000 [stdout#info] portal retrying connection
+2016-09-11T12:50:36+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:50:36+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:46+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:46+0000 [stdout#info] portal retrying connection
+2016-09-11T12:50:46+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:50:46+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:50:55+0000 [stdout#info] portal retrying connection
+2016-09-11T12:50:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:50:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:04+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:04+0000 [stdout#info] portal retrying connection
+2016-09-11T12:51:04+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:51:04+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:14+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:14+0000 [stdout#info] portal retrying connection
+2016-09-11T12:51:14+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:51:14+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:24+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:24+0000 [stdout#info] portal retrying connection
+2016-09-11T12:51:24+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:51:24+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:34+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:34+0000 [stdout#info] portal retrying connection
+2016-09-11T12:51:34+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:51:34+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:43+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:43+0000 [stdout#info] portal retrying connection
+2016-09-11T12:51:43+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:51:43+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:54+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:51:54+0000 [stdout#info] portal retrying connection
+2016-09-11T12:51:54+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:51:54+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:03+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:03+0000 [stdout#info] portal retrying connection
+2016-09-11T12:52:03+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:52:03+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:12+0000 [stdout#info] portal retrying connection
+2016-09-11T12:52:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:52:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:22+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:22+0000 [stdout#info] portal retrying connection
+2016-09-11T12:52:22+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 12 seconds
+2016-09-11T12:52:22+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:34+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:34+0000 [stdout#info] portal retrying connection
+2016-09-11T12:52:34+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:52:34+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:43+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:43+0000 [stdout#info] portal retrying connection
+2016-09-11T12:52:43+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T12:52:43+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:52:51+0000 [stdout#info] portal retrying connection
+2016-09-11T12:52:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:52:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:03+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:03+0000 [stdout#info] portal retrying connection
+2016-09-11T12:53:03+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:53:03+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:11+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:11+0000 [stdout#info] portal retrying connection
+2016-09-11T12:53:11+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:53:11+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:22+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:22+0000 [stdout#info] portal retrying connection
+2016-09-11T12:53:22+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:53:22+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:31+0000 [stdout#info] portal retrying connection
+2016-09-11T12:53:31+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:53:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:40+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:40+0000 [stdout#info] portal retrying connection
+2016-09-11T12:53:40+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:53:40+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:53:51+0000 [stdout#info] portal retrying connection
+2016-09-11T12:53:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:53:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:00+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:00+0000 [stdout#info] portal retrying connection
+2016-09-11T12:54:00+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:54:00+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:10+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:10+0000 [stdout#info] portal retrying connection
+2016-09-11T12:54:10+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:54:10+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:21+0000 [stdout#info] portal retrying connection
+2016-09-11T12:54:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:54:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:31+0000 [stdout#info] portal retrying connection
+2016-09-11T12:54:31+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:54:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:41+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:41+0000 [stdout#info] portal retrying connection
+2016-09-11T12:54:41+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:54:41+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:50+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:54:50+0000 [stdout#info] portal retrying connection
+2016-09-11T12:54:50+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 12 seconds
+2016-09-11T12:54:50+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:02+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:02+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:02+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:55:02+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:12+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:55:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:21+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:55:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:30+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:30+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:30+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 6 seconds
+2016-09-11T12:55:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:37+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:37+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:37+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:55:37+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:45+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:45+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:45+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:55:45+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:55:55+0000 [stdout#info] portal retrying connection
+2016-09-11T12:55:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:55:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:04+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:04+0000 [stdout#info] portal retrying connection
+2016-09-11T12:56:04+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:56:04+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:14+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:14+0000 [stdout#info] portal retrying connection
+2016-09-11T12:56:14+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:56:14+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:24+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:24+0000 [stdout#info] portal retrying connection
+2016-09-11T12:56:24+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:56:24+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:34+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:34+0000 [stdout#info] portal retrying connection
+2016-09-11T12:56:34+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:56:34+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:44+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:44+0000 [stdout#info] portal retrying connection
+2016-09-11T12:56:44+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:56:44+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:56:55+0000 [stdout#info] portal retrying connection
+2016-09-11T12:56:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:56:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:05+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:05+0000 [stdout#info] portal retrying connection
+2016-09-11T12:57:05+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:57:05+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:15+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:15+0000 [stdout#info] portal retrying connection
+2016-09-11T12:57:15+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:57:15+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:23+0000 [stdout#info] portal retrying connection
+2016-09-11T12:57:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:57:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:33+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:33+0000 [stdout#info] portal retrying connection
+2016-09-11T12:57:33+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:57:33+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:43+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:43+0000 [stdout#info] portal retrying connection
+2016-09-11T12:57:43+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:57:43+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:53+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:57:53+0000 [stdout#info] portal retrying connection
+2016-09-11T12:57:53+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:57:53+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:03+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:03+0000 [stdout#info] portal retrying connection
+2016-09-11T12:58:03+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:58:03+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:12+0000 [stdout#info] portal retrying connection
+2016-09-11T12:58:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:58:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:23+0000 [stdout#info] portal retrying connection
+2016-09-11T12:58:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:58:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:34+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:34+0000 [stdout#info] portal retrying connection
+2016-09-11T12:58:34+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:58:34+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:45+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:45+0000 [stdout#info] portal retrying connection
+2016-09-11T12:58:45+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:58:45+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:58:55+0000 [stdout#info] portal retrying connection
+2016-09-11T12:58:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T12:58:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:05+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:05+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:05+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:59:05+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:15+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:15+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:15+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T12:59:15+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:23+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T12:59:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:31+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:31+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T12:59:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:42+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:42+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:42+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T12:59:42+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:49+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:49+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:49+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T12:59:49+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:57+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T12:59:57+0000 [stdout#info] portal retrying connection
+2016-09-11T12:59:57+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T12:59:57+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:07+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:07+0000 [stdout#info] portal retrying connection
+2016-09-11T13:00:07+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:00:07+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:17+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:17+0000 [stdout#info] portal retrying connection
+2016-09-11T13:00:17+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:00:17+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:28+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:28+0000 [stdout#info] portal retrying connection
+2016-09-11T13:00:28+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:00:28+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:37+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:37+0000 [stdout#info] portal retrying connection
+2016-09-11T13:00:37+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:00:37+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:49+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:00:49+0000 [stdout#info] portal retrying connection
+2016-09-11T13:00:49+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:00:49+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:01+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:01+0000 [stdout#info] portal retrying connection
+2016-09-11T13:01:01+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:01:01+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:09+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:09+0000 [stdout#info] portal retrying connection
+2016-09-11T13:01:09+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:01:09+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:20+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:20+0000 [stdout#info] portal retrying connection
+2016-09-11T13:01:20+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:01:20+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:29+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:29+0000 [stdout#info] portal retrying connection
+2016-09-11T13:01:29+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:01:29+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:40+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:40+0000 [stdout#info] portal retrying connection
+2016-09-11T13:01:40+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:01:40+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:01:51+0000 [stdout#info] portal retrying connection
+2016-09-11T13:01:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:01:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:02+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:02+0000 [stdout#info] portal retrying connection
+2016-09-11T13:02:02+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:02:02+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:12+0000 [stdout#info] portal retrying connection
+2016-09-11T13:02:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:02:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:23+0000 [stdout#info] portal retrying connection
+2016-09-11T13:02:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:02:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:33+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:33+0000 [stdout#info] portal retrying connection
+2016-09-11T13:02:33+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T13:02:33+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:40+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:40+0000 [stdout#info] portal retrying connection
+2016-09-11T13:02:40+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:02:40+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:02:51+0000 [stdout#info] portal retrying connection
+2016-09-11T13:02:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:02:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:00+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:00+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:00+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:03:00+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:09+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:09+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:09+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T13:03:09+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:17+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:17+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:17+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T13:03:17+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:25+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:25+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:25+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:03:25+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:35+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:35+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:35+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:03:35+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:46+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:46+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:46+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:03:46+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:03:55+0000 [stdout#info] portal retrying connection
+2016-09-11T13:03:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:03:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:03+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:03+0000 [stdout#info] portal retrying connection
+2016-09-11T13:04:03+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:04:03+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:12+0000 [stdout#info] portal retrying connection
+2016-09-11T13:04:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:04:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:20+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:20+0000 [stdout#info] portal retrying connection
+2016-09-11T13:04:20+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:04:20+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:31+0000 [stdout#info] portal retrying connection
+2016-09-11T13:04:31+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:04:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:41+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:41+0000 [stdout#info] portal retrying connection
+2016-09-11T13:04:41+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:04:41+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:04:51+0000 [stdout#info] portal retrying connection
+2016-09-11T13:04:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:04:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:00+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:00+0000 [stdout#info] portal retrying connection
+2016-09-11T13:05:00+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:05:00+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:12+0000 [stdout#info] portal retrying connection
+2016-09-11T13:05:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:05:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:22+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:22+0000 [stdout#info] portal retrying connection
+2016-09-11T13:05:22+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:05:22+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:31+0000 [stdout#info] portal retrying connection
+2016-09-11T13:05:31+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:05:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:42+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:42+0000 [stdout#info] portal retrying connection
+2016-09-11T13:05:42+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:05:42+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:05:51+0000 [stdout#info] portal retrying connection
+2016-09-11T13:05:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:05:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:02+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:02+0000 [stdout#info] portal retrying connection
+2016-09-11T13:06:02+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:06:02+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:11+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:11+0000 [stdout#info] portal retrying connection
+2016-09-11T13:06:11+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:06:11+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:21+0000 [stdout#info] portal retrying connection
+2016-09-11T13:06:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:06:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:32+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:32+0000 [stdout#info] portal retrying connection
+2016-09-11T13:06:32+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:06:32+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:43+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:43+0000 [stdout#info] portal retrying connection
+2016-09-11T13:06:43+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:06:43+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:52+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:06:52+0000 [stdout#info] portal retrying connection
+2016-09-11T13:06:52+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:06:52+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:01+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:01+0000 [stdout#info] portal retrying connection
+2016-09-11T13:07:01+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:07:01+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:11+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:11+0000 [stdout#info] portal retrying connection
+2016-09-11T13:07:11+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:07:11+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:22+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:22+0000 [stdout#info] portal retrying connection
+2016-09-11T13:07:22+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:07:22+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:32+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:32+0000 [stdout#info] portal retrying connection
+2016-09-11T13:07:32+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:07:32+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:41+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:41+0000 [stdout#info] portal retrying connection
+2016-09-11T13:07:41+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:07:41+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:07:51+0000 [stdout#info] portal retrying connection
+2016-09-11T13:07:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:07:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:01+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:01+0000 [stdout#info] portal retrying connection
+2016-09-11T13:08:01+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:08:01+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:11+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:11+0000 [stdout#info] portal retrying connection
+2016-09-11T13:08:11+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 12 seconds
+2016-09-11T13:08:11+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:23+0000 [stdout#info] portal retrying connection
+2016-09-11T13:08:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:08:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:32+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:32+0000 [stdout#info] portal retrying connection
+2016-09-11T13:08:32+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:08:32+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:42+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:42+0000 [stdout#info] portal retrying connection
+2016-09-11T13:08:42+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:08:42+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:52+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836ad050>
+2016-09-11T13:08:52+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836ad050>
+2016-09-11T13:08:52+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:52+0000 [stdout#info] portal retrying connection
+2016-09-11T13:08:52+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:08:52+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:08:54+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836ad3b0>
+2016-09-11T13:08:54+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836ad3b0>
+2016-09-11T13:08:55+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836ad3b0>
+2016-09-11T13:08:55+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836ad3b0>
+2016-09-11T13:09:02+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:02+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:02+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:09:02+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:13+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:13+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:13+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:09:13+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:21+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:09:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:32+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:32+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:32+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:09:32+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:42+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:42+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:42+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T13:09:42+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:50+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:50+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:50+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:09:50+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:59+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:09:59+0000 [stdout#info] portal retrying connection
+2016-09-11T13:09:59+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:09:59+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:10+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:10+0000 [stdout#info] portal retrying connection
+2016-09-11T13:10:10+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:10:10+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:21+0000 [stdout#info] portal retrying connection
+2016-09-11T13:10:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:10:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:30+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:30+0000 [stdout#info] portal retrying connection
+2016-09-11T13:10:30+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 9 seconds
+2016-09-11T13:10:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:39+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:39+0000 [stdout#info] portal retrying connection
+2016-09-11T13:10:39+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:10:39+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:50+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:50+0000 [stdout#info] portal retrying connection
+2016-09-11T13:10:50+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 7 seconds
+2016-09-11T13:10:50+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:58+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:10:58+0000 [stdout#info] portal retrying connection
+2016-09-11T13:10:58+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 11 seconds
+2016-09-11T13:10:58+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:11:09+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:11:09+0000 [stdout#info] portal retrying connection
+2016-09-11T13:11:09+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 8 seconds
+2016-09-11T13:11:09+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:11:18+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:11:18+0000 [stdout#info] portal retrying connection
+2016-09-11T13:11:18+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 10 seconds
+2016-09-11T13:11:18+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:11:28+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-11T13:11:28+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54391) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3084217248>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3084217248>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f308431a170>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f308431a170>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836a72d8>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836a72d8>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30837203f8>
+2016-09-11T13:11:35+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30837203f8>
+2016-09-11T13:11:37+0000 [WebSocketClient (WebSocketProtocol),3,39.78.47.170] Starting RFC 6455 conversation
+2016-09-11T13:29:12+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 3
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b2290>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b2290>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b2680>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b2680>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b2b90>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b2b90>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4560>
+2016-09-11T13:36:48+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4560>
+2016-09-11T13:36:52+0000 [WebSocketClient (WebSocketProtocol),4,39.78.47.170] Starting RFC 6455 conversation
+2016-09-11T13:36:57+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 0
+2016-09-11T14:28:00+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 4
+2016-09-11T20:40:04+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836bb200>
+2016-09-11T20:40:04+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836bb200>
+2016-09-12T02:07:26+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836a7998>
+2016-09-12T02:07:26+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836a7998>
+2016-09-12T02:07:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30841639e0>
+2016-09-12T02:07:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30841639e0>
+2016-09-12T02:07:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836bb368>
+2016-09-12T02:07:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836bb368>
+2016-09-12T02:07:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836bbc68>
+2016-09-12T02:07:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836bbc68>
+2016-09-12T02:07:33+0000 [WebSocketClient (WebSocketProtocol),6,60.216.3.51] Starting RFC 6455 conversation
+2016-09-12T02:07:38+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 0
+2016-09-12T02:54:53+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54391) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T02:54:53+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:54:53+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:54:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:54:55+0000 [stdout#info] portal retrying connection
+2016-09-12T02:54:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:54:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:54:57+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:54:57+0000 [stdout#info] portal retrying connection
+2016-09-12T02:54:57+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:54:57+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:54:58+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:54:58+0000 [stdout#info] portal retrying connection
+2016-09-12T02:54:58+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:54:58+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:00+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:00+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:00+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:00+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:02+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:02+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:02+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:02+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:04+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:04+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:04+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:04+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:06+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:06+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:06+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:06+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:08+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:08+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:08+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:08+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:08+0000 [WebSocketClient (WebSocketProtocol),6,60.216.3.51] Closing connection: '' (1001)
+2016-09-12T02:55:08+0000 [WebSocketClient (WebSocketProtocol),6,60.216.3.51] [EE] AMP Error for AdminPortal2Server: Connection was closed cleanly.
+2016-09-12T02:55:09+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4998>
+2016-09-12T02:55:09+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4998>
+2016-09-12T02:55:10+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:10+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:10+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:10+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:11+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4a28>
+2016-09-12T02:55:11+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4a28>
+2016-09-12T02:55:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:12+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:14+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:14+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:14+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:14+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:15+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b47e8>
+2016-09-12T02:55:15+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b47e8>
+2016-09-12T02:55:16+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:16+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:16+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:16+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:16+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4950>
+2016-09-12T02:55:16+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4950>
+2016-09-12T02:55:18+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4b00>
+2016-09-12T02:55:18+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4b00>
+2016-09-12T02:55:18+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:18+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:18+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:18+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:20+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4ab8>
+2016-09-12T02:55:20+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4ab8>
+2016-09-12T02:55:20+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:20+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:20+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:20+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:21+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b40e0>
+2016-09-12T02:55:21+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b40e0>
+2016-09-12T02:55:22+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:22+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:22+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:22+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:23+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b75f0>
+2016-09-12T02:55:23+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b75f0>
+2016-09-12T02:55:24+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:24+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:24+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:24+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:24+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b72d8>
+2016-09-12T02:55:24+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b72d8>
+2016-09-12T02:55:26+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:26+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:26+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:26+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:26+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b44d0>
+2016-09-12T02:55:26+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b44d0>
+2016-09-12T02:55:28+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:28+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:28+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:28+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:30+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:30+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:30+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:32+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4050>
+2016-09-12T02:55:32+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f30836b4050>
+2016-09-12T02:55:32+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:32+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:32+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:32+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:34+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:34+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:34+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:34+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:36+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:36+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:36+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:36+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:38+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:38+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:38+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 1 seconds
+2016-09-12T02:55:38+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:40+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:40+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:40+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:40+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:42+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:42+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:42+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f308431aef0> will retry in 2 seconds
+2016-09-12T02:55:42+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3084217b00>
+2016-09-12T02:55:42+0000 [-] Received SIGINT, shutting down.
+2016-09-12T02:55:42+0000 [-] [EE] AMP Error for AdminPortal2Server: Connection was closed cleanly.
+2016-09-12T02:55:42+0000 [-] (TCP Port 8000 Closed)
+2016-09-12T02:55:42+0000 [twisted.web.server.Site#info] Stopping factory <twisted.web.server.Site instance at 0x7f3084251290>
+2016-09-12T02:55:42+0000 [-] (TCP Port 8001 Closed)
+2016-09-12T02:55:42+0000 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x7f30842513b0>
+2016-09-12T02:55:42+0000 [evennia.utils.txws.WebSocketFactory#info] Stopping factory <evennia.utils.txws.WebSocketFactory instance at 0x7f3084251518>
+2016-09-12T02:55:42+0000 [-] (TCP Port 4000 Closed)
+2016-09-12T02:55:42+0000 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x7f308425e170>
+2016-09-12T02:55:42+0000 [-] Main loop terminated.
+2016-09-12T02:55:42+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2016-09-12T02:55:46+0000 [-] Loading /home/ubuntu/evennia/evennia/server/portal/portal.py...
+2016-09-12T02:55:47+0000 [-] Loaded.
+2016-09-12T02:55:47+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.4.0 (/usr/bin/python 2.7.6) starting up.
+2016-09-12T02:55:47+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2016-09-12T02:55:47+0000 [-] ServerFactory starting on 4000
+2016-09-12T02:55:47+0000 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x7fb99f4a2368>
+2016-09-12T02:55:47+0000 [-] ServerFactory (WebSocketFactory) starting on 8001
+2016-09-12T02:55:47+0000 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x7fb99f335758>
+2016-09-12T02:55:47+0000 [evennia.utils.txws.WebSocketFactory#info] Starting factory <evennia.utils.txws.WebSocketFactory instance at 0x7fb99f3357a0>
+2016-09-12T02:55:47+0000 [-] Site starting on 8000
+2016-09-12T02:55:47+0000 [twisted.web.server.Site#info] Starting factory <twisted.web.server.Site instance at 0x7fb99f3357e8>
+2016-09-12T02:55:47+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T02:55:47+0000 [stdout#info] portal retrying connection
+2016-09-12T02:55:47+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T02:55:47+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T02:55:48+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T02:55:48+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54448) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T02:55:52+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8dddd0>
+2016-09-12T02:55:52+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8dddd0>
+2016-09-12T02:55:53+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8ea8c0>
+2016-09-12T02:55:53+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8ea8c0>
+2016-09-12T02:55:53+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8eaef0>
+2016-09-12T02:55:53+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8eaef0>
+2016-09-12T02:55:53+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8eacf8>
+2016-09-12T02:55:53+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8eacf8>
+2016-09-12T02:55:54+0000 [WebSocketClient (WebSocketProtocol),0,60.216.3.51] Starting RFC 6455 conversation
+2016-09-12T02:55:59+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 0
+2016-09-12T03:05:30+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54448) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T03:05:30+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T03:05:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T03:05:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T03:05:31+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54453) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T03:15:16+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54453) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T03:15:16+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T03:15:16+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T03:15:17+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T03:15:17+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54454) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T03:32:05+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e905d88>
+2016-09-12T03:32:05+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e905d88>
+2016-09-12T04:17:47+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 1
+2016-09-12T04:17:47+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 1
+2016-09-12T06:30:06+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e9171b8>
+2016-09-12T06:30:06+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e9171b8>
+2016-09-12T06:30:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917488>
+2016-09-12T06:30:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917488>
+2016-09-12T06:30:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917710>
+2016-09-12T06:30:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917710>
+2016-09-12T13:28:06+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917908>
+2016-09-12T13:28:06+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917908>
+2016-09-12T13:28:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917ef0>
+2016-09-12T13:28:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e89d7e8>
+2016-09-12T13:28:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e917ef0>
+2016-09-12T13:28:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e89d7e8>
+2016-09-12T13:28:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8a2440>
+2016-09-12T13:28:07+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99e8a2440>
+2016-09-12T13:28:09+0000 [WebSocketClient (WebSocketProtocol),2,112.229.148.111] Starting RFC 6455 conversation
+2016-09-12T13:28:15+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 0
+2016-09-12T13:39:56+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54454) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T13:39:56+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:39:56+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:39:58+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:39:58+0000 [stdout#info] portal retrying connection
+2016-09-12T13:39:58+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:39:58+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:00+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:00+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:00+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:00+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:02+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:02+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:02+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:02+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:04+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:04+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:04+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:04+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:06+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:06+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:06+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:06+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:08+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:08+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:08+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:08+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:09+0000 [WebSocketClient (WebSocketProtocol),2,112.229.148.111] [EE] AMP Error for MsgPortal2Server: Connection was closed cleanly.
+2016-09-12T13:40:11+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:11+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:11+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:11+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:13+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:13+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:13+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:13+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:15+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:15+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:15+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:15+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:17+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:17+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:17+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:17+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:19+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:19+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:19+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:19+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:21+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:23+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:25+0000 [WebSocketClient (WebSocketProtocol),2,112.229.148.111] [EE] AMP Error for MsgPortal2Server: Connection was closed cleanly.
+2016-09-12T13:40:25+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:25+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:25+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:25+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:27+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:27+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:27+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:27+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:29+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:29+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:29+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:29+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:31+0000 [WebSocketClient (WebSocketProtocol),2,112.229.148.111] Closing connection: '' (1001)
+2016-09-12T13:40:31+0000 [WebSocketClient (WebSocketProtocol),2,112.229.148.111] [EE] AMP Error for AdminPortal2Server: Connection was closed cleanly.
+2016-09-12T13:40:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99f4a2fc8>
+2016-09-12T13:40:31+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7fb99f4a2fc8>
+2016-09-12T13:40:31+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:31+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:31+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:33+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:33+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:33+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:33+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:35+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:35+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:35+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:35+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:37+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:37+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:37+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:37+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:39+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:39+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:39+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 1 seconds
+2016-09-12T13:40:39+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:41+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:41+0000 [stdout#info] portal retrying connection
+2016-09-12T13:40:41+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7fb99f335d88> will retry in 2 seconds
+2016-09-12T13:40:41+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7fb99f40ab90>
+2016-09-12T13:40:41+0000 [-] Received SIGINT, shutting down.
+2016-09-12T13:40:41+0000 [-] [EE] AMP Error for AdminPortal2Server: Connection was closed cleanly.
+2016-09-12T13:40:41+0000 [-] (TCP Port 8000 Closed)
+2016-09-12T13:40:41+0000 [twisted.web.server.Site#info] Stopping factory <twisted.web.server.Site instance at 0x7fb99f3357e8>
+2016-09-12T13:40:41+0000 [-] (TCP Port 8001 Closed)
+2016-09-12T13:40:41+0000 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x7fb99f335758>
+2016-09-12T13:40:41+0000 [evennia.utils.txws.WebSocketFactory#info] Stopping factory <evennia.utils.txws.WebSocketFactory instance at 0x7fb99f3357a0>
+2016-09-12T13:40:41+0000 [-] (TCP Port 4000 Closed)
+2016-09-12T13:40:41+0000 [twisted.internet.protocol.ServerFactory#info] Stopping factory <twisted.internet.protocol.ServerFactory instance at 0x7fb99f4a2368>
+2016-09-12T13:40:41+0000 [-] Main loop terminated.
+2016-09-12T13:40:41+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2016-09-12T13:49:48+0000 [-] Loading /home/ubuntu/evennia/evennia/server/portal/portal.py...
+2016-09-12T13:49:48+0000 [-] Loaded.
+2016-09-12T13:49:48+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 16.4.0 (/usr/bin/python 2.7.6) starting up.
+2016-09-12T13:49:48+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2016-09-12T13:49:48+0000 [-] ServerFactory starting on 4000
+2016-09-12T13:49:48+0000 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x7f3821b679e0>
+2016-09-12T13:49:48+0000 [-] ServerFactory (WebSocketFactory) starting on 8001
+2016-09-12T13:49:48+0000 [twisted.internet.protocol.ServerFactory#info] Starting factory <twisted.internet.protocol.ServerFactory instance at 0x7f3821a68710>
+2016-09-12T13:49:48+0000 [evennia.utils.txws.WebSocketFactory#info] Starting factory <evennia.utils.txws.WebSocketFactory instance at 0x7f3821a68758>
+2016-09-12T13:49:48+0000 [-] Site starting on 8000
+2016-09-12T13:49:48+0000 [twisted.web.server.Site#info] Starting factory <twisted.web.server.Site instance at 0x7f3821a687a0>
+2016-09-12T13:49:48+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T13:49:48+0000 [stdout#info] portal retrying connection
+2016-09-12T13:49:48+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-12T13:49:48+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T13:49:50+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T13:49:50+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54490) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3821010d88>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3821010d88>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f382101d710>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f382101d710>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f382101dcf8>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f382101dcf8>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f382101db90>
+2016-09-12T13:49:57+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f382101db90>
+2016-09-12T13:50:01+0000 [WebSocketClient (WebSocketProtocol),0,112.229.148.111] Starting RFC 6455 conversation
+2016-09-12T14:09:19+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54490) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:09:19+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-12T14:09:19+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:09:20+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:09:20+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54495) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:14:26+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54495) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:14:26+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-12T14:14:26+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:14:28+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:14:28+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54496) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:21:53+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54496) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:21:53+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-12T14:21:53+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:21:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:21:55+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54497) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:27:31+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54497) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:27:31+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-12T14:27:31+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:27:33+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:27:33+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54498) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:38:31+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 1
+2016-09-12T14:40:21+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54498) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:40:21+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-12T14:40:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:40:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-12T14:40:23+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54499) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-12T14:40:42+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fd54d0>
+2016-09-12T14:40:42+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fd54d0>
+2016-09-12T14:40:43+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fd58c0>
+2016-09-12T14:40:43+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fd58c0>
+2016-09-12T14:40:43+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fd5dd0>
+2016-09-12T14:40:43+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fd5dd0>
+2016-09-12T14:40:43+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fdd3b0>
+2016-09-12T14:40:43+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fdd3b0>
+2016-09-12T14:40:44+0000 [WebSocketClient (WebSocketProtocol),1,112.229.148.111] Starting RFC 6455 conversation
+2016-09-12T14:40:50+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 0
+2016-09-12T14:58:07+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 2
+2016-09-12T15:14:17+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 3
+2016-09-13T01:13:19+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f38210105a8>
+2016-09-13T01:13:19+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f38210105a8>
+2016-09-13T01:13:21+0000 [WebSocketClient (WebSocketProtocol),3,39.91.31.56] Starting RFC 6455 conversation
+2016-09-13T01:20:03+0000 [AMPProtocol,client] AMPProtocol connection lost (HOST:IPv4Address(TCP, '127.0.0.1', 54499) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-13T01:20:03+0000 [AMPProtocol,client] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:03+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:04+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:04+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:04+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:04+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:06+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:06+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:06+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:06+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:08+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:08+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:08+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:08+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:10+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:10+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:10+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:10+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:12+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:14+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:14+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:14+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:14+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:16+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:16+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:16+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:16+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:19+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:19+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:19+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:19+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:21+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:21+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:21+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:21+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:23+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:23+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:23+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:23+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:24+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:24+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:24+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:24+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:27+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:27+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:27+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:27+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:28+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:28+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:28+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:28+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:30+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:30+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:30+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:30+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:32+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:32+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:32+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:32+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:34+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:34+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:34+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:34+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:37+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:37+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:37+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:37+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:39+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:39+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:39+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:39+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:41+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:41+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:41+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:41+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:43+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:43+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:43+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:43+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:45+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:45+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:45+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:45+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:47+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:47+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:47+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:47+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:49+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:49+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:49+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:49+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:51+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:51+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:51+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:51+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:53+0000 [WebSocketClient (WebSocketProtocol),3,39.91.31.56] [EE] AMP Error for MsgPortal2Server: Connection was closed cleanly.
+2016-09-13T01:20:53+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:53+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:53+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:53+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:55+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:55+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:55+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:55+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:56+0000 [WebSocketClient (WebSocketProtocol),3,39.91.31.56] [EE] AMP Error for MsgPortal2Server: Connection was closed cleanly.
+2016-09-13T01:20:57+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:57+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:57+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:20:57+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:58+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:20:58+0000 [stdout#info] portal retrying connection
+2016-09-13T01:20:58+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:20:58+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:00+0000 [WebSocketClient (WebSocketProtocol),3,39.91.31.56] Closing connection: '' (1001)
+2016-09-13T01:21:00+0000 [WebSocketClient (WebSocketProtocol),3,39.91.31.56] [EE] AMP Error for AdminPortal2Server: Connection was closed cleanly.
+2016-09-13T01:21:00+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fdff38>
+2016-09-13T01:21:00+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fdff38>
+2016-09-13T01:21:01+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:01+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:01+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:21:01+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:03+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:03+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:03+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:21:03+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:05+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:05+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:05+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:21:05+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:06+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:06+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:06+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:21:06+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:08+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:08+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:08+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 2 seconds
+2016-09-13T01:21:08+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:10+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:10+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:10+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:21:10+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:12+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:12+0000 [stdout#info] portal retrying connection
+2016-09-13T01:21:12+0000 [Uninitialized] <twisted.internet.tcp.Connector instance at 0x7f3821a68d40> will retry in 1 seconds
+2016-09-13T01:21:12+0000 [evennia.server.amp.AmpClientFactory#info] Stopping factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:14+0000 [evennia.server.amp.AmpClientFactory#info] Starting factory <evennia.server.amp.AmpClientFactory instance at 0x7f3821b3c518>
+2016-09-13T01:21:14+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54541) PEER:IPv4Address(TCP, '127.0.0.1', 5000))
+2016-09-13T01:21:27+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fe5ea8>
+2016-09-13T01:21:27+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fe5ea8>
+2016-09-13T01:21:28+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fec320>
+2016-09-13T01:21:28+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fec320>
+2016-09-13T01:21:28+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fec830>
+2016-09-13T01:21:28+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fec830>
+2016-09-13T01:21:28+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820feccf8>
+2016-09-13T01:21:28+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820feccf8>
+2016-09-13T01:21:29+0000 [WebSocketClient (WebSocketProtocol),4,39.91.31.56] Starting RFC 6455 conversation
+2016-09-13T01:21:29+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 4
+2016-09-13T01:46:01+0000 [twisted.web.proxy.ProxyClientFactory#info] Starting factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fe5170>
+2016-09-13T01:46:01+0000 [twisted.web.proxy.ProxyClientFactory#info] Stopping factory <twisted.web.proxy.ProxyClientFactory instance at 0x7f3820fe5170>
+2016-09-13T01:46:06+0000 [WebSocketClient (WebSocketProtocol),5,39.91.31.56] Starting RFC 6455 conversation
+2016-09-13T01:46:06+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 5
+2016-09-13T01:46:06+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 5
+2016-09-13T02:40:43+0000 [-] Timing out client: IPv4Address(TCP, '112.229.148.111', 65459)
+2016-09-13T02:40:43+0000 [-] Timing out client: IPv4Address(TCP, '112.229.148.111', 65460)
+2016-09-13T02:40:43+0000 [-] Timing out client: IPv4Address(TCP, '112.229.148.111', 65461)
+2016-09-13T03:04:48+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 6
+2016-09-13T03:04:48+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 6
+2016-09-13T06:12:46+0000 [AMPProtocol,client] [EE] AMP Error for AdminPortal2Server: 7
